@@ -1,2 +1,2 @@
 # OIBSIP
-This is my submission for the internship at oasis infobyte in **data science** 
+This is a record of the tasks/submissions that I have completed for the internship at Oasis Infobyte in the feild of **data science** 
